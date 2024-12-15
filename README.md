@@ -9,7 +9,7 @@ The projects contains:
 - Forms with HTTP Requests (axios)
 - Pages with routing and protected resources (native-stack)
 - Managing global state (context, redux)
-- Styles using StyleSheet from react native
+- Styles (StyleSheet)
 
 # React Native Basics:
 ![poza1-1](https://github.com/user-attachments/assets/e50ac5af-658b-429d-9f1a-cbd7c7800316) 
