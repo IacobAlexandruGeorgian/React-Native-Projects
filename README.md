@@ -12,9 +12,7 @@ The projects contains:
 - Styles using StyleSheet from react native
 
 # React Native Basics:
-![poza1-1](https://github.com/user-attachments/assets/e50ac5af-658b-429d-9f1a-cbd7c7800316)
-
-![poza1-2](https://github.com/user-attachments/assets/7daf8f81-bc96-47e2-8884-69a0c65b272e)
+![poza1-1](https://github.com/user-attachments/assets/e50ac5af-658b-429d-9f1a-cbd7c7800316) ![poza1-2](https://github.com/user-attachments/assets/7daf8f81-bc96-47e2-8884-69a0c65b272e)
 
 # Mini Game:
 ![poza2-1](https://github.com/user-attachments/assets/cdb370af-2e6e-43e0-96e5-87086f547236)
