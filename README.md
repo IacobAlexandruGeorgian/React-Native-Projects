@@ -1,7 +1,7 @@
 Details about the project:
-    - react 18
-    - react native 0.7
-    - expo 48
+- react 18
+- react native 0.7
+- expo 48
 
 The projects contains:
 - Authentification (Register, Login, Logout, Auto Login)
