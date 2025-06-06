@@ -1,4 +1,4 @@
-Details about the project:
+Details about the projects:
 - react 18
 - react native 0.7
 - expo 48
